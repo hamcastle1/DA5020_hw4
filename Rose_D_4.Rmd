@@ -2,6 +2,7 @@
 title: "Homework"
 author: "Dylan Rose"
 output: pdf_document
+urlcolor: blue
 ---
 
 # Introduction and warmup
@@ -24,6 +25,8 @@ if(!exists("./farmers_market.csv")){
 }
 
 ```
+
+This file and the data/code used to produce it can all be accessed at [this github link](https://github.com/hamcastle1/DA5020_hw4.git).
 
 # Warmup
 
